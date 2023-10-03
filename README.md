@@ -1,25 +1,91 @@
- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://pp2105.github.io/)
- <h1 align="center">Hi 👋, I'm Prathamesh Pawar</h1>
-<h3 align="center">A passionate frontend developer, transforming Designs into Interactive Web Experiences."</h3>
+ <h1 align="left">Hello 👋, Welcome to Prathamesh's Github🧘‍♂️.</h1>
+
+###
+
+<p align="left">A passionate frontend developer 👦, transforming Designs into Interactive Web Experiences.🧑‍🎤"</p>
+
+###
+
+<p align="left">Learn about Prathamesh Pawar 💁❤️</p>
+
+###
+
+<div align="center">
+  <img height="200" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"  />
+</div>
+
+###
+
+<p align="left">My Work Experience: 🧑‍💻<br><br> ✨FrontEnd Developer -🗽Mphasis (From December 2021 to Present.)📍NewYork, United States(Remote.)<br><br><br>📃Key Responsibilities:<br><br>UI Development: As a Front-End Developer, I take pride in transforming concepts into visually appealing and intuitive user interfaces. I employ HTML, CSS, and JavaScript, along with popular libraries and frameworks like React to craft responsive and captivating UIs that meet both user and business needs.<br><br>Feature Addition: Collaborating closely with cross-functional teams, I identify opportunities to enhance web applications by adding new features and functionalities. This includes understanding project requirements, translating them into technical specifications, and implementing them effectively.<br><br>Bug Fixing: I excel at diagnosing and resolving front-end issues efficiently. My problem-solving skills and attention to detail ensure that I not only fix bugs but also analyze their root causes to prevent recurrence.<br><br>Testing: Quality assurance is a crucial part of my workflow. I conduct comprehensive testing, including functional, usability, and cross-browser testing, to identify and rectify issues before they impact users. My commitment to testing guarantees that web apps are reliable and user-friendly.<br><br>Performance Optimization: I am keenly aware of the importance of web app performance. I utilize various optimization techniques, such as code splitting, lazy loading, and performance profiling, to ensure fast load times and smooth interactions.<br><br>Version Control: Proficient in using version control systems like Git, I contribute to a collaborative development environment, enabling seamless code management, branching, and merging.<br><br><br><br><br><br>✨Part-Time Freelancer - 🚀Build websites for several Businesses.<br><br>📃Key Responsiblities:<br><br>Website Development: Leverage my expertise in web development technologies, including HTML, CSS, JavaScript, and various frameworks, to create custom websites that align with clients' brand identity and goals.<br><br>Website Monitoring: Implement proactive website monitoring solutions to maintain optimal performance, security, and uptime. Swiftly identify and address any issues to ensure a seamless user experience.<br><br>Feature Upgrades: Work collaboratively with clients to identify…</p>
+
+###
+
+<p align="left">🤔 What I Do 💭<br><br>- 💪FrontEnd Development:  I bring web designs to life, crafting clean and efficient code to ensure seamless user experiences across all devices.<br><br>- 🦉UI/UX Design:  I have an eye for design and focus on creating intuitive, user-friendly interfaces that captivate and delight visitors.<br><br>- 🔍Performance Optimization:   I'm obsessed with optimizing website performance, making sure your site loads fast and efficiently.<br><br> <br>🤝 Let's Collaborate!<br><br>I'm always up for new challenges and collaborations. Whether you have a web project in mind or just want to chat about the latest frontend trends, feel free to [get in touch](pawarp212000@gmail.com)Let's build something amazing together!</p>
+
+###
+
+<p align="left">✍️Skills:</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<p align="left">🐳My Socials :</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/prathamesh-pawar-7076ab1b9/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/pp_21_05/?hl=en" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
  
-<img align ="right" alt="coding" width="400"  src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"/>
-- 👯 I’m looking to collaborate on **Open Source Projects**
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pp2105&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=outrun&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-- 👨‍💻 All of my projects are available at [https://pp2105.github.io/Prathamesh-Portfolio.github.io/](https://pp2105.github.io/Prathamesh-Portfolio.github.io/)
-
-- 💬 Ask me about **React.JS, HTML, CSS, JavaScript, FrontEnd Developement**
-
-- 📫 How to reach me **pawarp212000@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prathamesh-pawar-7076ab1b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prathamesh-pawar-7076ab1b9/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/pp_21_05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pp_21_05/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pp2105&show_icons=true&locale=en&layout=compact" alt="pp2105" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pp2105&show_icons=true&locale=en" alt="pp2105" /></p>
+###
