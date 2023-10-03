@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">A passionate frontend developer 👦, transforming Designs into Interactive Web Experiences.🧑‍🎤"</p>
+<h4 align="left">A passionate frontend developer 👦, transforming Designs into Interactive Web Experiences.🧑‍🎤"</h4>
 
 ###
 
-<p align="left">Learn about Prathamesh Pawar 💁❤️</p>
+<h4 align="left">Learn about Prathamesh Pawar 💁❤️</h4>
 
 ###
 
@@ -16,15 +16,43 @@
 
 ###
 
-<p align="left">My Work Experience: 🧑‍💻<br><br> ✨FrontEnd Developer -🗽Mphasis (From December 2021 to Present.)📍NewYork, United States(Remote.)<br><br><br>📃Key Responsibilities:<br><br>UI Development: As a Front-End Developer, I take pride in transforming concepts into visually appealing and intuitive user interfaces. I employ HTML, CSS, and JavaScript, along with popular libraries and frameworks like React to craft responsive and captivating UIs that meet both user and business needs.<br><br>Feature Addition: Collaborating closely with cross-functional teams, I identify opportunities to enhance web applications by adding new features and functionalities. This includes understanding project requirements, translating them into technical specifications, and implementing them effectively.<br><br>Bug Fixing: I excel at diagnosing and resolving front-end issues efficiently. My problem-solving skills and attention to detail ensure that I not only fix bugs but also analyze their root causes to prevent recurrence.<br><br>Testing: Quality assurance is a crucial part of my workflow. I conduct comprehensive testing, including functional, usability, and cross-browser testing, to identify and rectify issues before they impact users. My commitment to testing guarantees that web apps are reliable and user-friendly.<br><br>Performance Optimization: I am keenly aware of the importance of web app performance. I utilize various optimization techniques, such as code splitting, lazy loading, and performance profiling, to ensure fast load times and smooth interactions.<br><br>Version Control: Proficient in using version control systems like Git, I contribute to a collaborative development environment, enabling seamless code management, branching, and merging.<br><br><br><br><br><br>✨Part-Time Freelancer - 🚀Build websites for several Businesses.<br><br>📃Key Responsiblities:<br><br>Website Development: Leverage my expertise in web development technologies, including HTML, CSS, JavaScript, and various frameworks, to create custom websites that align with clients' brand identity and goals.<br><br>Website Monitoring: Implement proactive website monitoring solutions to maintain optimal performance, security, and uptime. Swiftly identify and address any issues to ensure a seamless user experience.<br><br>Feature Upgrades: Work collaboratively with clients to identify…</p>
+<h3 align="left">My Work Experience: 🧑‍💻</h3>
 
 ###
 
-<p align="left">🤔 What I Do 💭<br><br>- 💪FrontEnd Development:  I bring web designs to life, crafting clean and efficient code to ensure seamless user experiences across all devices.<br><br>- 🦉UI/UX Design:  I have an eye for design and focus on creating intuitive, user-friendly interfaces that captivate and delight visitors.<br><br>- 🔍Performance Optimization:   I'm obsessed with optimizing website performance, making sure your site loads fast and efficiently.<br><br> <br>🤝 Let's Collaborate!<br><br>I'm always up for new challenges and collaborations. Whether you have a web project in mind or just want to chat about the latest frontend trends, feel free to [get in touch](pawarp212000@gmail.com)Let's build something amazing together!</p>
+<h4 align="left">✨FrontEnd Developer -🗽Mphasis (From December 2021 to Present.)📍NewYork, United States(Remote.)</h4>
 
 ###
 
-<p align="left">✍️Skills:</p>
+<p align="left">📃Key Responsibilities:<br><br>UI Development: As a Front-End Developer, I take pride in transforming concepts into visually appealing and intuitive user interfaces. I employ HTML, CSS, and JavaScript, along with popular libraries and frameworks like React to craft responsive and captivating UIs that meet both user and business needs.<br><br>Feature Addition: Collaborating closely with cross-functional teams, I identify opportunities to enhance web applications by adding new features and functionalities. This includes understanding project requirements, translating them into technical specifications, and implementing them effectively.<br><br>Bug Fixing: I excel at diagnosing and resolving front-end issues efficiently. My problem-solving skills and attention to detail ensure that I not only fix bugs but also analyze their root causes to prevent recurrence.<br><br>Testing: Quality assurance is a crucial part of my workflow. I conduct comprehensive testing, including functional, usability, and cross-browser testing, to identify and rectify issues before they impact users. My commitment to testing guarantees that web apps are reliable and user-friendly.<br><br>Performance Optimization: I am keenly aware of the importance of web app performance. I utilize various optimization techniques, such as code splitting, lazy loading, and performance profiling, to ensure fast load times and smooth interactions.<br><br>Version Control: Proficient in using version control systems like Git, I contribute to a collaborative development environment, enabling seamless code management, branching, and merging.</p>
+
+###
+
+<h4 align="left">✨Part-Time Freelancer - 🚀Build websites for several Businesses.</h4>
+
+###
+
+<p align="left">📃Key Responsiblities:<br><br>Website Development: Leverage my expertise in web development technologies, including HTML, CSS, JavaScript, and various frameworks, to create custom websites that align with clients' brand identity and goals.<br><br>Website Monitoring: Implement proactive website monitoring solutions to maintain optimal performance, security, and uptime. Swiftly identify and address any issues to ensure a seamless user experience.<br><br>Feature Upgrades: Work collaboratively with clients to identify…</p>
+
+###
+
+<h3 align="left">🤔 What I Do 💭</h3>
+
+###
+
+<p align="left">- 💪FrontEnd Development:  I bring web designs to life, crafting clean and efficient code to ensure seamless user experiences across all devices.<br><br>- 🦉UI/UX Design:  I have an eye for design and focus on creating intuitive, user-friendly interfaces that captivate and delight visitors.<br><br>- 🔍Performance Optimization:   I'm obsessed with optimizing website performance, making sure your site loads fast and efficiently.</p>
+
+###
+
+<h3 align="left">🤝 Let's Collaborate!</h3>
+
+###
+
+<p align="left">I'm always up for new challenges and collaborations. Whether you have a web project in mind or just want to chat about the latest frontend trends, feel free to [get in touch](pawarp212000@gmail.com)Let's build something amazing together!</p>
+
+###
+
+<h3 align="left">✍️Skills:</h3>
 
 ###
 
@@ -68,7 +96,7 @@
 
 ###
 
-<p align="left">🐳My Socials :</p>
+<h3 align="left">🐳My Socials :</h3>
 
 ###
 
